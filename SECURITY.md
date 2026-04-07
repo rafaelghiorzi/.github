@@ -13,7 +13,7 @@ If possible, include a comprehensive message describing the problem so that I ca
 - What repository is the problem in
 - What is the problem causing
 - What files are problematic
-- Potential fixes if any
+- Potential fixes, if you think of any
 
 ## Preferred Languages
 
