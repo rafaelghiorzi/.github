@@ -7,7 +7,7 @@ Software Developer passionate about using technology to bring innovation
 🔹 🌍  I'm based in Brasília, Brazil  
 🔹 🖊️  CS student @ [**Universidade de Brasília**][unb]  
 🔹 🧠  Currently learning DevOps and Software Architecture  
-🔹 🖥️  See my portfolio at [rafaelghiorzi.org](https://rafaelghiorzi.org) (in construction...)    
+🔹 🖥️  See my portfolio at [rafaelghiorzi.org](https://rafaelghiorzi.org)
 
 [unb]: https://www.unb.br
 
